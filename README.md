@@ -1,13 +1,12 @@
 ### 🐥 Hi yall and welcome to my Github 🐥
 
 - ✍️ I’m currently working on updating my LinkedIn and Github accounts
-- ☁️ ~~I’m currently learning about the SaaS platform Salesforce~~(done)
-- 🐍 I'm currently learning how to visualize data in Python
+- 🔋 I'm currently learning how to visualize data on PowerBI since I already know Tableau
 - 📆 My tentative learning goals/schedule
-     1) ~~Late April: Salesforce dashboard features and limitation, productive KPI setting, and KPI tracking via Balanced Scorecards~~(done)
-     2) Early May:  Start reading 'Mastering Predictive Analytics with R' and take online courses on how to do data analysis in Python
-     3) Mid-May:    Finish reading book, advance Python skills, and learn about deep learning algorithms
-     4) Late May:   Continue learning Python and learn about NLP uses in data analysis
+     1) Update Github with R project
+     2) Update Github with Python project
+     3) Update Github with SQL project
+     4) Update Github with Excel project
 - 🤔 I’m looking for help with finding datasets that need to have the full data analysis process done to them
      I keep finding datasets that fall into the following categories
      1) Needs to be cleaned,analyzed, and visualized but doesn't answer a question
